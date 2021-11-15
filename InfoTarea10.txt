@@ -1,0 +1,12 @@
+INFO:
+Buenas tardes profes, solo pude realizar la parte de Colas con Prioridad
+no acotada, ya que no supe como realizar una evaluacion o pedir un num.
+maximo de rango de prioridad, de igual forma investigue en internet, pero
+no me salió, si tuviera más tiempo lo hubiera intentado más, de igal forma
+me gustaria pedirles más tiempo para la Cola con Prioridad acotada pues
+la explicación por parte del profe ya no fue tan buena por falta de tiempo
+y pues las diapositivas de la tarea tampoco las subieron, espero lo tomen
+en cuenta, gracias.
+Fernando Rivas Pérez
+EDD
+Grupo 1310 
